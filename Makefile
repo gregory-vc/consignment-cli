@@ -1,6 +1,6 @@
 build:
-	protoc -I. --go_out=plugins=micro:/Users/tattoor/source/consignment/consignment-service \
-					proto/consignment/consignment.proto
+	go get github.com/gregory-vc/consignment-service
+	go mod vendor
 	docker build -t consignment-cli .
 
 run:
