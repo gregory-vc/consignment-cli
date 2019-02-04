@@ -41,6 +41,8 @@ github.com/gregory-vc/consignment-service v0.0.0-20190204172411-10889764064e h1:
 github.com/gregory-vc/consignment-service v0.0.0-20190204172411-10889764064e/go.mod h1:K/BHzcRQO3z9+mXXZntKebmG20xQvmLblVEkxSkhBNc=
 github.com/gregory-vc/consignment-service v0.0.0-20190204172735-a179850a1824 h1:d7P/p+O5Me+B4uH4iwPVZg83ptIwH1GIKiLyt4NwzoI=
 github.com/gregory-vc/consignment-service v0.0.0-20190204172735-a179850a1824/go.mod h1:K/BHzcRQO3z9+mXXZntKebmG20xQvmLblVEkxSkhBNc=
+github.com/gregory-vc/consignment-service v0.0.0-20190204173038-b40619246fd6 h1:O1+l1+6aEz7E6zqGp+vzRJ3+veC8PjJNitK/QVuv0BI=
+github.com/gregory-vc/consignment-service v0.0.0-20190204173038-b40619246fd6/go.mod h1:K/BHzcRQO3z9+mXXZntKebmG20xQvmLblVEkxSkhBNc=
 github.com/gregory-vc/user-service v0.0.0-20190204170127-40931d2ce205 h1:3godqJL8a6k7pqkGUBA66t7ZKC6OROZ+BGwwYob+/J4=
 github.com/gregory-vc/user-service v0.0.0-20190204170127-40931d2ce205/go.mod h1:QaSK6mar838oAf8M84EFxo3Jhsz6quMbA+JZy9KmLNc=
 github.com/gregory-vc/vessel-service v0.0.0-20190131122430-6b3499e7274c h1:MjTNjxUFWFdKRRbutuKKYqYTESrj46rk77q+t3sYOdM=
